@@ -19,3 +19,7 @@ I enjoy working on projects that combine backend logic, frontend development and
 - **Tools:** Git, GitHub  
 
 📫 Feel free to check out my projects or get in touch!
+
+### 📊 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedIBRAHIM01&layout=compact)
+
