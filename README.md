@@ -1,7 +1,7 @@
 ## Hi, I'm Ahmed 👋  
 
 🎓 Applied Informatics student at the University of Klagenfurt  
-💻 Passionate about software development, web technologies and practical IT projects  
+💻 Passionate about software development 
 
 ### 🚀 Projects
 - **Multiplayer Monopoly Game** – Java-based team project with multiplayer game logic  
