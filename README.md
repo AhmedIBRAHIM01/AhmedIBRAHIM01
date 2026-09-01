@@ -1,9 +1,9 @@
 ## Hi, I'm Ahmed 👋
 
 🎓 Applied Informatics student at the University of Klagenfurt
-💻 Passionate about software development
+Passionate about software development
 
-### 🚀 Projects
+### Projects
 
 * **Multiplayer Monopoly Game** – Java-based team project with multiplayer game logic
 * **Web Platform (Marketplace-style)** – Angular application with user and listing management
@@ -17,4 +17,4 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedIBRAHIM01\&layout=compact\&langs_count=8)](https://github.com/AhmedIBRAHIM01)
 
-📫 Feel free to check out my projects or get in touch!
+Feel free to check out my projects or get in touch!
